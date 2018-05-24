@@ -11,8 +11,7 @@
             "name": "启动程序",
             "program": "${workspaceFolder}\\bin\\www",
             "env": {
-                "NODE_ENV":"development",
-                "cachePath":"C:\\Users\\xfx\\Pictures"
+                "NODE_ENV":"development"
             }
         }
     ]

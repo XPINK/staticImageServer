@@ -4,8 +4,7 @@
     "version": "2.0.0",
     "options":{
         "env": {
-            "NODE_ENV":"development",
-            "cachePath":"C:\\Users\\xfx\\Pictures"
+            "NODE_ENV":"development"
         }
     },
     "tasks": [
