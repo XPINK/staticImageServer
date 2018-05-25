@@ -17,7 +17,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 
-app.use(express.static(path.join(__dirname, 'cacheImages')));
+app.use(express.static(path.join(__dirname, 'ImageBackUp')));
 app.use(express.static(path.join(__dirname, 'public')));
 
 // catch 404 and forward to error handler
